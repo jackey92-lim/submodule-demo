@@ -1,0 +1,3 @@
+[submodule "udemy-demo-repo"]
+	path = udemy-demo-repo
+	url = git@github.com:jackey92-lim/udemy-demo-repo.git
